@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fearlesspython.github.io/</loc>
+  <lastmod>2021-06-18T22:07:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/about/</loc>
+  <lastmod>2021-06-18T22:07:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Number-Integer-Float-and-Complex/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Boolean/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/String/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/List-and-Tuples/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Dictionary/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Set/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Input-and-Output/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/Loops/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/about/</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fearlesspython.github.io/Basics-of-Python/jekyll/update/2020/08/17/welcome-to-jekyll.html</loc>
+  <lastmod>2021-06-18T17:23:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
